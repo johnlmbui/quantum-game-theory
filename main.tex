@@ -15,9 +15,8 @@
 \usepackage{amsmath,amsfonts,amssymb,amsthm}
 \usepackage{array,tabularx,multirow,makecell,setspace}
 \usepackage{comment}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage[size=custom,width=120,height=90,scale=1.0]{beamerposter}
+\usepackage{fontspec}
+\usepackage[size=custom,width=101.6,height=76.2,scale=0.85]{beamerposter}
 
 %\usetheme{gemini}
 \usetheme{avenirnext}
@@ -25,9 +24,8 @@
 
 \usepackage{booktabs}
 \usepackage[svgnames]{xcolor}
-\usepackage{caption}
-\usepackage{subcaption}
 \usepackage[labelfont={color=umbcaokteal}]{caption}
+\usepackage{subcaption}
 \usepackage{tikz}
 \usetikzlibrary{calc,matrix,positioning,arrows.meta}
 \usepackage{pgfplots}
@@ -105,8 +103,8 @@ Department of Mathematics and Statistics, UMBC
 		\node[
 		anchor=north west,
 		inner sep=3.0cm
-		] at ([xshift=0.0cm,yshift=2.3cm]current page.north west)
-		{\includegraphics[height=7cm]{qr-code.png}};
+		] at ([xshift=0.0cm,yshift=2.5cm]current page.north west)
+		{\includegraphics[height=6cm]{qr-code.png}};
 	\end{tikzpicture}
 }
 
@@ -291,7 +289,7 @@ Department of Mathematics and Statistics, UMBC
 		\begin{center}
 			\captionof{table}{Joint quantum basis states for players' strategies.}
 			\renewcommand{\arraystretch}{1.8}
-			\resizebox{0.35\linewidth}{!}{%
+			\resizebox{0.3\linewidth}{!}{%
 				\begin{tabular}{c c c}
 					& $|C\rangle_{P_2}$ & $|D\rangle_{P_2}$ \\
 					
@@ -403,9 +401,7 @@ Department of Mathematics and Statistics, UMBC
 		\end{pmatrix}.
 		\]
 		
-		The profile $(Q,Q)$ is a Nash equilibrium with payoff $(R,R)$, making cooperation both stable (Nash equilibrium) and optimal (Pareto efficient).
-		
-		\textit{Conclusion.} Entanglement changes the \textbf{information structure} of the game, allowing players to coordinate without communication and escape the classical dilemma.
+		\textit{Conclusion.} With maximal entanglement, $(Q,Q)$ yields payoff $(R,R)$, making cooperation both stable and Pareto optimal. Entanglement enables coordination without communication, allowing players to escape the classical prisoner’s dilemma.
 		
 	\end{block}
 	

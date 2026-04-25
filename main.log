@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2026.4.17)  25 APR 2026 00:35
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2026.4.17)  25 APR 2026 00:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,48 +1053,35 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 \CommentStream=\write5
 
 Excluding comment 'comment')
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-16.
+(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
-Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count380
+\l__fontspec_language_int=\count381
+\l__fontspec_strnum_int=\count382
+\l__fontspec_tmp_int=\count383
+\l__fontspec_tmpa_int=\count384
+\l__fontspec_tmpb_int=\count385
+\l__fontspec_tmpc_int=\count386
+\l__fontspec_em_int=\count387
+\l__fontspec_emdef_int=\count388
+\l__fontspec_strong_int=\count389
+\l__fontspec_strongdef_int=\count390
+\l__fontspec_tmpa_dim=\dimen349
+\l__fontspec_tmpb_dim=\dimen350
+\l__fontspec_tmpc_dim=\dimen351
+ (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
 )
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/beamerposter\beamerpost
 er.sty
@@ -1110,19 +1097,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count380
+\actioncount=\count391
 )
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count381
-\FP@xia=\count382
-\FP@xib=\count383
-\FP@xfa=\count384
-\FP@xfb=\count385
-\FP@rega=\count386
-\FP@regb=\count387
-\FP@regs=\count388
-\FP@times=\count389
+\FP@xs=\count392
+\FP@xia=\count393
+\FP@xib=\count394
+\FP@xfa=\count395
+\FP@xfb=\count396
+\FP@rega=\count397
+\FP@regb=\count398
+\FP@regs=\count399
+\FP@times=\count400
 )
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1141,7 +1128,7 @@ Package: fp-pas 1994/08/29
 )
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count390
+\FPseed=\count401
 )
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1163,16 +1150,16 @@ Package beamerposter Info: checking size input, please wait. on input line 130.
 Package beamerposter Info: the input custom\ 6\ was correct, we proceed. on inp
 ut line 130.
 Package beamerposter Info: finished size input check. on input line 130.
-Package beamerposter Info: custom poster width=120 on input line 130.
-Package beamerposter Info: custom poster height=90 on input line 130.
-Package beamerposter Info: myfontscale=1.0 on input line 130.
+Package beamerposter Info: custom poster width=101.6 on input line 130.
+Package beamerposter Info: custom poster height=76.2 on input line 130.
+Package beamerposter Info: myfontscale=0.85 on input line 130.
 
 ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-SUB ) ) ( FP-UPN ( FP-SUB ) )
-Package beamerposter Info: paperwidth=3414.3307pt, paperheight=2560.74802pt on 
+Package beamerposter Info: paperwidth=2890.80017pt, paperheight=2168.0999pt on 
 input line 173.
-Package beamerposter Info: textwidth=3385.87794pt, textheight=2532.29527pt on i
+Package beamerposter Info: textwidth=2862.34741pt, textheight=2139.64716pt on i
 nput line 174.
-Package beamerposter Info: fontscale=1.0, myfontscale=1.00 on input line 175.
+Package beamerposter Info: fontscale=1.0, myfontscale=0.85 on input line 175.
 
 ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN
 ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-MUL
@@ -1194,47 +1181,17 @@ Package beamerposter Info: fontscale=1.0, myfontscale=1.00 on input line 175.
 Package: exscale 2025/06/05 v2.1i Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> OMX/cmex/m/n on input line 57.
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> OMX/cmex/m/n on input line 57.
-\big@size=\dimen349
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen352
 )
 (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
 ty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count391
-\cp@tempcnt=\count392
+\c@cp@cntr=\count402
+\cp@tempcnt=\count403
 LaTeX Info: Redefining \checkoddpage on input line 59.
-)
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
-Package: xparse 2025-10-09 L3 Experimental document command parser
-)
-Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
-
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
-.sty
-Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count393
-\l__fontspec_language_int=\count394
-\l__fontspec_strnum_int=\count395
-\l__fontspec_tmp_int=\count396
-\l__fontspec_tmpa_int=\count397
-\l__fontspec_tmpb_int=\count398
-\l__fontspec_tmpc_int=\count399
-\l__fontspec_em_int=\count400
-\l__fontspec_emdef_int=\count401
-\l__fontspec_strong_int=\count402
-\l__fontspec_strongdef_int=\count403
-\l__fontspec_tmpa_dim=\dimen350
-\l__fontspec_tmpb_dim=\dimen351
-\l__fontspec_tmpc_dim=\dimen352
- (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-)
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
 ) (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count404
@@ -1517,26 +1474,26 @@ File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1546,12 +1503,12 @@ LaTeX Font Info:    ... okay on input line 87.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 3357.42522pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 2560.74802pt, 0.0pt)
-* \paperwidth=3414.3307pt
-* \paperheight=2560.74802pt
-* \textwidth=3357.42522pt
-* \textheight=2532.29529pt
+* h-part:(L,W,R)=(28.45274pt, 2833.89468pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 2168.0999pt, 0.0pt)
+* \paperwidth=2890.80017pt
+* \paperheight=2168.0999pt
+* \textwidth=2833.89468pt
+* \textheight=2139.64717pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
@@ -1572,7 +1529,7 @@ LaTeX Font Info:    ... okay on input line 87.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 87.
+Package hyperref Info: Link coloring OFF on input line 85.
 (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1602,6 +1559,65 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 85.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 85.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 85.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 85.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 85.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 85.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 85.
+LaTeX Font Info:    Redeclaring math accent \check on input line 85.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 85.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 85.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 85.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 85.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 85.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/AvenirNext(1)/m/n on input line 85.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/AvenirNext(1)/b/n on input line 85
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 85.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
@@ -1609,30 +1625,28 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
 (main.nav)
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
-7.
- (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
-7.
- (C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-87.
-
-(C:\Users\minhm\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+LaTeX Font Info:    Calculating math sizes for size <10.2> on input line 85.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 87.
+(Font)              <7.13995> on input line 85.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5.09999> on input line 85.
 File: umbc_logos/UMBC-primary-logo-RGB.png Graphic file (type bmp)
 <umbc_logos/UMBC-primary-logo-RGB.png>
 File: qr-code.png Graphic file (type bmp)
 <qr-code.png>
+LaTeX Font Info:    Calculating math sizes for size <21.15> on input line 426.
 
-(tikz/prisoners.tex) (tikz/chicken.tex)
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <21.15> not available
+(Font)              size <20.74> substituted on input line 426.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <14.80492> not available
+(Font)              size <14.4> substituted on input line 426.
+
+(tikz/prisoners.tex) (tikz/chicken.tex
+LaTeX Font Info:    Calculating math sizes for size <17.63> on input line 68.
+)
 File: bloch.png Graphic file (type bmp)
 <bloch.png>
 File: Schrodingers_cat.pdf Graphic file (type pdf)
@@ -1659,16 +1673,21 @@ File: qr-code.png Graphic file (type bmp)
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.40999pt have occurred.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43367 strings out of 402805
- 1030838 string characters out of 5445099
- 1846825 words of memory out of 5000000
- 71419 multiletter control sequences out of 15000+600000
- 660804 words of font info for 112 fonts, out of 8000000 for 9000
+ 43300 strings out of 402805
+ 1029542 string characters out of 5445099
+ 1846203 words of memory out of 5000000
+ 71358 multiletter control sequences out of 15000+600000
+ 641872 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,21n,123p,1445b,1914s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,21n,123p,1445b,1912s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (1 page).
